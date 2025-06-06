@@ -90,7 +90,3 @@ You can modify the query in `index.ts` to ask different questions:
 ```typescript
 const query = "Your question here";
 ```
-
-## License
-
-[Your License]
